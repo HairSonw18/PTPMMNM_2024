@@ -28,10 +28,10 @@
             <table class="table table-border">
                 <thead>
                     <tr>
-                        <td>Stt</td>
-                        <td>Tên khách hàng</td>
-                        <td>Email</td>
-                        <td>Nội dung</td>
+                        <td>STT</td>
+                        <td>TÊN KHÁCH HÀNG</td>
+                        <td>EMAIL</td>
+                        <td>NỘI DUNG</td>
                     </tr>
                 </thead>
                 <tbody>

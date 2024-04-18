@@ -26,8 +26,8 @@
     <div id="header">
       <!--Begin: Nav-->
       <ul id="nav">
-        <li><a href="index.php">Order</a></li>
-        <li><a href="#store">Product</a></li>
+        <li><a href="index.php">Service Orders</a></li>
+        <li><a href="#store">Merchandise Orders</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
       <!--End: Nav-->

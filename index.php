@@ -34,7 +34,7 @@
       <!--Begin: Nav-->
       <ul id="nav">
         <li><a href="#">Home</a></li>
-        <li><a href="#store">Pet Store</a></li>
+        <li><a href="#store">Pet Care</a></li>
         <li><a href="#service">Services</a></li>
         <li><a href="#contact">Contact</a></li>
         <li>
@@ -205,7 +205,7 @@
         </div>
         <div class="form-group mb-5">
           <label for="">Email <span class="text-danger">*</span></label>
-          <input name="email" type="email" class="form-control">
+          <input name="email" type="email" required class="form-control">
         </div>
         <div class="form-group mb-5">
           <label for="">Dịch vụ <span class="text-danger">*</span></label>
